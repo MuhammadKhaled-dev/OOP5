@@ -1,6 +1,68 @@
 ﻿using System;
 using System.Buffers;
 
+#region Q1 : Interface in C#
+/*
+Interface in C# is a contract that defines method/property signatures that a class must implement.
+We use interfaces instead of concrete classes to make code flexible and loosely coupled.
+
+Benefits:
+1. Loose Coupling: Code depends on interface, not class.
+2. Polymorphism: Different classes can implement same interface.
+3. Clear structure and easier testing.
+*/
+#endregion
+
+#region Q2 : Translator Problem
+/*
+a) Problem: Both interfaces have Greet() method. The class currently uses a single method for both, printing "Hello / Ahlan".
+
+b) Fix: Use Explicit Interface Implementation
+Example:
+class Translator : IEnglishSpeaker, IArabicSpeaker
+{
+    void IEnglishSpeaker.Greet() { Console.WriteLine("Hello"); }
+    void IArabicSpeaker.Greet() { Console.WriteLine("Ahlan"); }
+}
+Technique: Explicit Interface Implementation.
+
+c) Call: Cannot call translator.Greet() directly.
+Use interface references:
+((IEnglishSpeaker)t).Greet();
+((IArabicSpeaker)t).Greet();
+*/
+#endregion
+
+#region Q3 : Shallow vs Deep Copy
+/*
+Shallow Copy: copies object but reference fields point to same objects.
+Deep Copy: copies object and all referenced objects independently.
+
+Use Shallow: when reference fields can be shared.
+Use Deep: when we need full independent copy.
+
+Risk of Shallow Copy: modifying reference fields in one object affects the other.
+*/
+#endregion
+
+#region Q4 : ShallowCopy Example
+/*
+Code:
+var e1 = new Employee { Title="Dev", Dept=new Department { Name="IT" } };
+var e2 = e1.ShallowCopy();
+e2.Title="QA";
+e2.Dept.Name="Testing";
+
+Output:
+QA - Testing
+QA - Testing
+
+Explanation:
+ShallowCopy copies Employee object but Dept reference is shared.
+Changing e2.Title does not affect e1.Title, but changing e2.Dept.Name affects both.
+*/
+#endregion
+
 #region Main Program
 
 class Program
