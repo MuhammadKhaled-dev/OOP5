@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assignments-OOP\\OOP5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|d:\\assignments-oop\\oop5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|d:\\assignments-oop\\oop5\\bookinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|solutionrelative:bookinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|d:\\assignments-oop\\oop5\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|solutionrelative:iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|d:\\assignments-oop\\oop5\\ibookable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|solutionrelative:ibookable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|d:\\assignments-oop\\oop5\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|solutionrelative:ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|d:\\assignments-oop\\oop5\\standardticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|solutionrelative:standardticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|d:\\assignments-oop\\oop5\\viptecket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|solutionrelative:viptecket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|d:\\assignments-oop\\oop5\\imaxtecket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|solutionrelative:imaxtecket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|d:\\assignments-oop\\oop5\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|solutionrelative:projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|d:\\assignments-oop\\oop5\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EC26C1-50EA-4EA9-B641-306DA75326CF}|OOP5.csproj|solutionrelative:cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "D:\\Assignments-OOP\\OOP5\\IPrintable.cs",
+              "RelativeDocumentMoniker": "IPrintable.cs",
+              "ToolTip": "D:\\Assignments-OOP\\OOP5\\IPrintable.cs",
+              "RelativeToolTip": "IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:04:48.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookable.cs",
+              "DocumentMoniker": "D:\\Assignments-OOP\\OOP5\\IBookable.cs",
+              "RelativeDocumentMoniker": "IBookable.cs",
+              "ToolTip": "D:\\Assignments-OOP\\OOP5\\IBookable.cs",
+              "RelativeToolTip": "IBookable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:04:20.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\Assignments-OOP\\OOP5\\Ticket.cs",
+              "RelativeDocumentMoniker": "Ticket.cs",
+              "ToolTip": "D:\\Assignments-OOP\\OOP5\\Ticket.cs",
+              "RelativeToolTip": "Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:03:47.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StandardTicket.cs",
+              "DocumentMoniker": "D:\\Assignments-OOP\\OOP5\\StandardTicket.cs",
+              "RelativeDocumentMoniker": "StandardTicket.cs",
+              "ToolTip": "D:\\Assignments-OOP\\OOP5\\StandardTicket.cs",
+              "RelativeToolTip": "StandardTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:03:18.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VIPTecket.cs",
+              "DocumentMoniker": "D:\\Assignments-OOP\\OOP5\\VIPTecket.cs",
+              "RelativeDocumentMoniker": "VIPTecket.cs",
+              "ToolTip": "D:\\Assignments-OOP\\OOP5\\VIPTecket.cs",
+              "RelativeToolTip": "VIPTecket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:02:47.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMAXTecket.cs",
+              "DocumentMoniker": "D:\\Assignments-OOP\\OOP5\\IMAXTecket.cs",
+              "RelativeDocumentMoniker": "IMAXTecket.cs",
+              "ToolTip": "D:\\Assignments-OOP\\OOP5\\IMAXTecket.cs",
+              "RelativeToolTip": "IMAXTecket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:02:21.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingHelper.cs",
+              "DocumentMoniker": "D:\\Assignments-OOP\\OOP5\\BookingHelper.cs",
+              "RelativeDocumentMoniker": "BookingHelper.cs",
+              "ToolTip": "D:\\Assignments-OOP\\OOP5\\BookingHelper.cs",
+              "RelativeToolTip": "BookingHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:00:52.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assignments-OOP\\OOP5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Assignments-OOP\\OOP5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:59:49.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Projector.cs",
+              "DocumentMoniker": "D:\\Assignments-OOP\\OOP5\\Projector.cs",
+              "RelativeDocumentMoniker": "Projector.cs",
+              "ToolTip": "D:\\Assignments-OOP\\OOP5\\Projector.cs",
+              "RelativeToolTip": "Projector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:01:52.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "D:\\Assignments-OOP\\OOP5\\Cinema.cs",
+              "RelativeDocumentMoniker": "Cinema.cs",
+              "ToolTip": "D:\\Assignments-OOP\\OOP5\\Cinema.cs",
+              "RelativeToolTip": "Cinema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:01:24.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
